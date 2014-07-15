@@ -1,0 +1,26 @@
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\bin\Debug\DumbPhone.exe.config
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\bin\Debug\DumbPhone.exe
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\bin\Debug\DumbPhone.pdb
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.csprojResolveAssemblyReference.cache
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\MainWindow.baml
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\MainWindow.g.cs
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\App.g.cs
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone_MarkupCompile.cache
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.g.resources
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.Properties.Resources.resources
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.csproj.GenerateResource.Cache
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.exe
+\\conductor.honors.gccis.rit.edu\home$\isb4190\documents\visual studio 2012\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.pdb
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\bin\Debug\DumbPhone.exe.config
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.exe
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.pdb
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\bin\Debug\DumbPhone.exe
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\bin\Debug\DumbPhone.pdb
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\MainWindow.baml
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\MainWindow.g.cs
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\App.g.cs
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone_MarkupCompile.cache
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.g.resources
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.Properties.Resources.resources
+C:\Users\Isaac\Dropbox\C#\Projects\DumbPhone\DumbPhone\obj\Debug\DumbPhone.csproj.GenerateResource.Cache
